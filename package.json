@@ -1,0 +1,22 @@
+{
+  "name": "sdg-qa-frontend",
+  "version": "1.0.0",
+  "description": "Proyecto para la automatización de la aplicación Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanJavQA/SDG-Qa-Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanJavQA/SDG-Qa-Frontend/issues"
+  },
+  "homepage": "https://github.com/JuanJavQA/SDG-Qa-Frontend#readme",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
+}
